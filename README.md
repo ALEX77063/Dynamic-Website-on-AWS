@@ -32,8 +32,7 @@ To deploy this project, follow these steps:
 
 1. Clone the repository:
 
-install-configure-app.sh   
-
+![Alt text](/install-configure-app.sh)
 
    
 
