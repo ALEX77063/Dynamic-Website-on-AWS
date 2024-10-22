@@ -32,15 +32,9 @@ To deploy this project, follow these steps:
 
 1. Clone the repository:
 
-bash
-   git clone 
-   
+install-configure-app.sh   
 
 
-2. Navigate to the project directory:
-
-bash
-   cd 
    
 
 
