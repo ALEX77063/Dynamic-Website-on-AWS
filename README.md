@@ -4,7 +4,7 @@
 This project involves hosting a dynamic website on Amazon Web Services (AWS) utilizing various cloud resources to ensure high availability, scalability, and security. The architecture is designed to leverage AWS services effectively, providing a robust solution for web hosting.
 
 ## Repository
-You can find the reference diagram and deployment scripts in the [GitHub Repository](#) (insert link here).
+You can find the reference diagram and deployment scripts in the [GitHub Repository](#)![Alt text](/3._Host_a_Dynamic_Web_App_on_AWS (1).png)
 
 ## Architecture
 The architecture consists of a Virtual Private Cloud (VPC) configured with both public and private subnets across two availability zones. This setup enhances system reliability and fault tolerance.
